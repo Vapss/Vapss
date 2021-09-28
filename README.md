@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Portuguez</h1>
-<h3 align="center">A data science student from ESCOM IPN MX</h3>
+<h3 align="center">Data science student @ ESCOM IPN MX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vapss&label=Profile%20views&color=21b40e&style=flat-square" alt="vapss" /> </p>
 
