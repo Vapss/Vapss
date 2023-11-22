@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Data Science @ ESCOM IPN<br>👯 I’m looking to collaborate on any Data Science project<br>🌱 I’m currently learning python and R
+🔭 I’m currently studying Data Science @ ESCOM IPN<br>👯 I’m looking to collaborate on any Data Science project
 
 
 ## 🌐 Socials:
