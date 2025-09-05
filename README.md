@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Data Science @ ESCOM IPN<br>👯 I’m looking to collaborate on any Data Science project
+🔭 I studied Data Science @ ESCOM IPN. Working @ EPH Ecommerce Team<br>👯
 
 
 ## 🌐 Socials:
